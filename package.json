@@ -1,0 +1,17 @@
+{
+  "name": "nodebb-plugin-hubia-squadra",
+  "version": "1.0.0",
+  "description": "A plugin for Hub IA Squadra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodebb",
+    "test",
+    "plugin",
+    "boostrapper"
+  ],
+  "author": "Jorge Luis Malaquias",
+  "license": "ISC"
+}

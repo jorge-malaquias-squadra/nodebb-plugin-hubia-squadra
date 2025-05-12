@@ -1,0 +1,15 @@
+{
+  "id": "nodebb-plugin-hubia-squadra",
+  "name": "Plugin Squadra",
+  "description": "A plugin for Hub IA Squadra",
+  "url": "https://github.com/jorge-malaquias-squadra/nodebb-plugin-hubia-squadra",
+  "library": "./index.js",
+  "priority": 1,
+  "hooks": [
+      { "hook": "action:middleware.pageView", "method": "init" }
+  ],
+  "scripts": [
+    "lib/custom-translations/global",
+    "client-side.js"
+  ]
+}
