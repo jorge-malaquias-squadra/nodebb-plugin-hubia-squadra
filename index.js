@@ -3,7 +3,7 @@ const customTranslations = require('./lib/custom-translations/global');
 
 const Plugin = {
   init: async (params) => {
-    Plugin.addCustomTranslations();
+    // Plugin.addCustomTranslations();
   },
 
   addCustomTranslations: async () => {

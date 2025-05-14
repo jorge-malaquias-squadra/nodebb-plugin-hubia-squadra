@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-hubia-squadra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for Hub IA Squadra",
   "main": "index.js",
   "scripts": {
